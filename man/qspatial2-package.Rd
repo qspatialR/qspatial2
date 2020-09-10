@@ -9,6 +9,14 @@
 qspatial2 provides user friendly spatial analysis by wrapping functions from the spdep
     and spatstat packages and presenting the results in ggplot2 or leaflet.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/qspatialR/qspatial2}
+  \item Report bugs at \url{https://github.com/qspatialR/qspatial2/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
