@@ -2,3 +2,4 @@
 
 export(gg_area)
 export(gg_moran)
+export(gg_moranplot)
