@@ -3,3 +3,6 @@
 export(gg_area)
 export(gg_moran)
 export(gg_moranplot)
+export(lf_area)
+import("spdep,")
+import(ggplot2)

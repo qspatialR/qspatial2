@@ -5,6 +5,7 @@
 #' @param var A variable containing the spatial data.
 #' @param binary.mat Logical. If TRUE then the weights natrix will be binary, if FALSE it will be weighted.
 #' @keywords areal data, moran plot
+#' @import spdep, ggplot2
 #' @export
 
 
