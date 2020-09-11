@@ -20,5 +20,6 @@ gg_points(
 \description{
 Creates a point pattern map with ggplot2.
 }
-\keyword{areal}
 \keyword{data}
+\keyword{pattern}
+\keyword{point}

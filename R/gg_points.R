@@ -11,7 +11,7 @@
 #' @param title
 #' @param ylab
 #' @param xlab
-#' @keywords areal data
+#' @keywords point pattern data
 #' @export
 
 gg_points = function(shapefile, data, x, y, crs = 29193, pointsize = 1,
