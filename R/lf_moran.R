@@ -1,4 +1,4 @@
-#' @title Complete spatial analysis for areal data
+#' @title Spatial dependency map with leaflet.
 #'
 #' @description
 #' @param shapefile
